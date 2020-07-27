@@ -19,7 +19,6 @@ It can be noted from chart that the launch date is important.
 -	The month of December is the worst for launching. 
 
 
-![Theater_Outcomes_vs_Launch](kickstarter-analysis.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -27,8 +26,6 @@ It can be noted from chart that the launch date is important.
 The line graph below is helpful in determining how high or low goals can impact the outcomes of a campaign and its success rate. 
 
 -	Louise should work on producing her musicals for less because the pledged amount is much lower than successful pledge which indicates percentage failed or unsuccessful for the price being too high. 
-
-![Outcomes_vs_Goals](kickstarter-analysis.png)
 
 
 ### Challenges and Difficulties Encountered
