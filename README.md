@@ -20,8 +20,6 @@ It can be noted from the chart that the launch date is important.
 
 ![](Theater_Outcomes_vs_Launch.png)
 
-
-
 ### Analysis of Outcomes Based on Goals
 
 The line graph below is helpful in determining how high or low goals can impact the outcomes of a campaign and its success rate. 
@@ -51,4 +49,5 @@ Louise should work on producing her musicals for less because the pledged amount
 In order to provide Louise with a better analysis, it would be helpful to know how long she plans to run her campaign. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 If we analyzed the data by location, we can see which locations have better success than others. 
