@@ -28,6 +28,7 @@ The line graph below is helpful in determining how high or low goals can impact 
 -	Louise should work on producing her musicals for less because the pledged amount is much lower than successful pledge which indicates percentage failed or unsuccessful for the price being too high. 
 
 
+
 ### Challenges and Difficulties Encountered
 
 The challenge with large set of data is that it can evolve over time and not hold true to the analysis made presently. So, all the analysis done may or may not be impactful for future campaigns. 
