@@ -18,6 +18,7 @@ It can be noted from the chart that the launch date is important.
 -	The month of May and June are peak months and the best for launching
 -	The month of December is the worst for launching. 
 
+![](kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
 
 
 
@@ -27,7 +28,7 @@ The line graph below is helpful in determining how high or low goals can impact 
 
 -	Louise should work on producing her musicals for less because the pledged amount is much lower than successful pledge which indicates percentage failed or unsuccessful for the price being too high. 
 
-
+![](kickstarter-analysis/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
